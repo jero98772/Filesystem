@@ -1,6 +1,6 @@
 # FileSystem
 
-![](https://github.com/jero98772/Filesystem/blob/main/docs/1.png)
+![](https://raw.githubusercontent.com/jero98772/Filesystem/refs/heads/main/docs/1.png)
 
 ### Install
 
